@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Sikt Student-ID",
+    "slug": "sikt-student-id-lookalike",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "siktid",
+    "assetBundlePatterns": ["**/*"],
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "android": {
+      "package": "com.example.siktlookalike",
+      "permissions": []
+    }
+  }
+}
